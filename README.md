@@ -2,7 +2,15 @@
 
 ![Project Banner](https://github.com/imanatsaqif/Tugas_CV_basisdata_PHP/blob/main/joao-ferrao-4YzrcDNcRVg-unsplash.jpg)
 
-CV Web Generator is a web application allowing users to create and generate professional-looking CVs (resumes) online. This repository contains the application's front-end design and layout implementation, focusing on the user interface and user experience.
+CV Web Generator adalah aplikasi web yang memungkinkan pengguna untuk membuat dan menghasilkan CV (resume) dengan tampilan profesional secara online. Repositori ini berisi desain front-end dan implementasi layout aplikasi, berfokus pada antarmuka pengguna dan pengalaman pengguna.
+
+## Accessing the PHP File
+
+Untuk mengakses berkas PHP yang bertanggung jawab atas halaman pembuatan CV, Anda dapat menggunakan tautan berikut:
+
+[Access halamanCV.php](https://github.com/imanatsaqif/Tugas_CV_basisdata_PHP/blob/main/halamanCV.php)
+
+Harap dicatat bahwa berkas PHP ini bertanggung jawab atas pembuatan konten CV secara dinamis dan berinteraksi dengan tata letak front-end yang diimplementasikan menggunakan HTML, CSS, dan PHP.
 
 ## Team Members
 
@@ -13,16 +21,16 @@ CV Web Generator is a web application allowing users to create and generate prof
 
 ## Features
 
-- User-friendly interface for creating and customizing CVs.
-- Easy-to-use form for inputting personal information, education, work experience, and skills.
-- Real-time preview of the generated CV.
-- Download option to save the generated CV as a PDF file.
+- Antarmuka yang ramah pengguna untuk membuat dan menyesuaikan CV.
+- Formulir yang mudah digunakan untuk memasukkan informasi pribadi, pendidikan, pengalaman kerja, dan keahlian.
+- Pratinjau waktu nyata dari CV yang dihasilkan.
+- Pilihan untuk mengunduh CV yang dihasilkan dalam format PDF.
 
 ## Technologies Used
 
-- HTML, CSS, and PHP for front-end design and layout.
+- HTML, CSS, dan PHP untuk desain front-end dan tata letak.
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me:
-- Imana Tsaqif Ariyadi: [iimtsaqif@gmail.com]
+Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk menghubungi saya:
+Imana Tsaqif Ariyadi: [iimtsaqif@gmail.com]
