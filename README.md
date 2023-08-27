@@ -1,6 +1,6 @@
 # CV Web Generator dengan PHP
 
-![Project Banner](link_to_project_banner.png)
+![Project Banner](https://github.com/imanatsaqif/Tugas_CV_basisdata_PHP/blob/main/joao-ferrao-4YzrcDNcRVg-unsplash.jpg)
 
 CV Web Generator is a web application allowing users to create and generate professional-looking CVs (resumes) online. This repository contains the application's front-end design and layout implementation, focusing on the user interface and user experience.
 
